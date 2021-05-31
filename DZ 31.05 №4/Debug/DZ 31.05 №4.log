@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\danil\source\repos\DZ 31.05 №4\Source.cpp(21,33): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\danil\source\repos\DZ 31.05 №4\Source.cpp(23,29): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\danil\source\repos\DZ 31.05 №4\Source.cpp(203,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\danil\source\repos\DZ 31.05 №4\Source.cpp(222,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\danil\source\repos\DZ 31.05 №4\Source.cpp(242,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DZ 31.05 №4.vcxproj -> C:\Users\danil\source\repos\DZ 31.05 №4\Debug\DZ 31.05 №4.exe
